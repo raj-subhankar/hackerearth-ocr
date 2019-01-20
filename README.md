@@ -1,4 +1,4 @@
-# Handwritten Text Recognition (OCR) with MXNet Gluon 
+# Handwriting detection
 
 
 The pipeline is composed of 3 steps:
