@@ -1,10 +1,11 @@
 # Handwriting detection
 
-
 The pipeline is composed of 3 steps:
 - Detecting the handwritten area in a form 
 - Detecting lines of handwritten texts 
 - Recognising characters and applying a language model to correct errors. 
+
+![](https://github.com/raj-subhankar/hackerearth-ocr/blob/master/images/pipeline.png)
 
 
 ## Dataset:
