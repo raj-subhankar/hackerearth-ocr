@@ -10,7 +10,7 @@ The pipeline is composed of 3 steps:
 ## Dataset:
 * To use test_iam_dataset.ipynb, create credentials.json using credentials.json.example and editing the appropriate field. The username and password can be obtained from http://www.fki.inf.unibe.ch/DBs/iamDB/iLogin/index.php.
 
-Obtain the original forms from the IAM dataset and plot the results. Randomly select 4 images for analysis.
+Randomly select 4 images from the data set.
 ![](https://github.com/raj-subhankar/hackerearth-ocr/blob/master/images/ocr-1.jpg)
 
 ## Paragraph segmentation
@@ -35,17 +35,5 @@ Given each line of text, predict a string of the handwritten text.
 ![](https://github.com/raj-subhankar/hackerearth-ocr/blob/master/images/ocr-7.jpg)
 ![](https://github.com/raj-subhankar/hackerearth-ocr/blob/master/images/ocr-8.jpg)
 ![](https://github.com/raj-subhankar/hackerearth-ocr/blob/master/images/ocr-9.jpg)
-
-## Appendix
-
-
-##### Results
-
-![](https://cdn-images-1.medium.com/max/800/1*HEb82jJp93I0EFgYlJhfAw.png) 
-
-
-##### Results
-
-![](https://cdn-images-1.medium.com/max/1000/1*JJGwLXJL-bV7zsfrfw84ew.png)
 
 
