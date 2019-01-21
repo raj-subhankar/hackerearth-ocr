@@ -15,6 +15,7 @@ Obtain the original forms from the IAM dataset and plot the results. Randomly se
 
 ## Paragraph segmentation
 Given the image of a form in the IAM dataset, predict a bounding box of the handwriten component.
+![](https://github.com/raj-subhankar/hackerearth-ocr/blob/master/images/ocr-1.jpg)
 
 ## Image processing
 Crop the handwriting component out of the original IAM form.
